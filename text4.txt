@@ -1,0 +1,1 @@
+To stop the forever list in git log Press q
